@@ -1,7 +1,6 @@
 class Transcrate < Formula
   desc "Convert tracks for a USB stick and know they will play on CDJs and XDJs"
   homepage "https://github.com/hiroaki222/transcrate"
-  version "0.3.0"
   license any_of: ["MIT", "Apache-2.0"]
 
   # The command line tool expects an ffmpeg it did not bring, which is the one
