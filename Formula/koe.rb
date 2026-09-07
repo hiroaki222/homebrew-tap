@@ -12,8 +12,8 @@ class Koe < Formula
   # has neither path, so it is refused here rather than after the download.
   on_macos do
     on_arm do
-      url "https://github.com/hiroaki222/koe/releases/download/v0.1.0/koe-v0.1.0-aarch64-apple-darwin.tar.gz"
-      sha256 "7e31dfb4e13fdea6af899aa1844f272d28c5af0dd9c16fdeae70a223cecd180c"
+      url "https://github.com/hiroaki222/koe/releases/download/v0.2.0/koe-v0.2.0-aarch64-apple-darwin.tar.gz"
+      sha256 "321c3687527cc81b3284b71929c7499da04c55234adcec9cd1c3cb30d6032bf3"
     end
   end
 
